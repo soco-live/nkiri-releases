@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/soco-live/nkiri-releases/releases/latest"><img src="https://img.shields.io/github/v/release/soco-live/nkiri-releases?label=version&style=flat-square&color=0EA5E9" alt="release"></a>
+  <a href="https://github.com/soco-live/nkiri-releases/releases/latest"><img src="https://img.shields.io/github/v/release/soco-live/nkiri-releases?include_prereleases&label=version&style=flat-square&color=0EA5E9" alt="release"></a>
   <img src="https://img.shields.io/badge/platform-Android%20%7C%20Android%20TV%20%7C%20Firestick-3DDC84?style=flat-square&logo=android" alt="platform">
 </p>
 
