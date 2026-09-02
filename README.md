@@ -78,11 +78,9 @@ Enable Unknown Sources → Downloader → paste link → Install → remote.
 
 ### Sister Apps
 
-<p align="center">
-  <a href="https://soco-live.github.io"><img src="assets/socolive_logo.png" width="80" alt="Socolive"><br><sub><strong>Socolive TV</strong></sub><br><sub>Live football</sub></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/soco-live/animepahe-releases"><img src="assets/animepahe_logo.png" width="80" alt="AnimePahe"><br><sub><strong>AnimePahe TV</strong></sub><br><sub>Anime</sub></a>
-</p>
+| App | App |
+|---|---|
+| <a href="https://github.com/soco-live/socolive-releases#readme"><img src="assets/socolive_logo.png" width="80" alt="Socolive TV"><br><sub><strong>Socolive TV</strong></sub></a> | <a href="https://github.com/soco-live/animepahe-releases#readme"><img src="assets/animepahe_logo.png" width="80" alt="AnimePahe TV"><br><sub><strong>AnimePahe TV</strong></sub></a> |
 
 ---
 
