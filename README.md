@@ -78,7 +78,7 @@ Enable Unknown Sources → Downloader → paste link → Install → remote.
 <p align="center">
   <a href="https://soco-live.github.io"><img src="https://raw.githubusercontent.com/soco-live/socolive-tv/main/src/assets/icon.png" width="80" alt="Socolive"><br><sub><strong>Socolive TV</strong></sub><br><sub>Live football</sub></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/soco-live/animepahe-releases/releases/latest"><img src="https://raw.githubusercontent.com/soco-live/animepahe-tv/master/src/assets/icon.png" width="80" alt="AnimePahe"><br><sub><strong>AnimePahe TV</strong></sub><br><sub>Anime</sub></a>
+  <a href="https://github.com/soco-live/animepahe-releases"><img src="https://raw.githubusercontent.com/soco-live/animepahe-tv/master/src/assets/icon.png" width="80" alt="AnimePahe"><br><sub><strong>AnimePahe TV</strong></sub><br><sub>Anime</sub></a>
 </p>
 
 ---
