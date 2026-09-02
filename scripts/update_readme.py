@@ -8,8 +8,8 @@ def get_latest():
 def fmt(items):
     rows=[]
     for it in items[:6]:
-        poster=it.get("poster",""); title=it.get("title","").replace("|","\\|")
-        rows.append(f'<td align="center"><a href="{it.get("link","")}"><img src="{poster}" width="110" alt="{title}"><br><sub>{title[:40]}</sub></a></td>')
+        poster=it.get("poster",""); title=it.get("title","").replace('"','&quot;')
+        rows.append(f'<td align="center"><a href="#download"><img src="{poster}" width="110" alt="{title}"><br><sub>{title[:35]}</sub></a></td>')
     html=['<table><tr>']
     for i, cell in enumerate(rows):
         html.append(cell)
@@ -21,8 +21,8 @@ def post_fb(latest):
     if not fb_page or not fb_token: return
     try:
         lines=["🎬 Latest on Nkiri TV"]
-        for it in latest[:5]: lines.append(f"🎞️ {it.get('title','')[:50]}")
-        lines.append("\n📲 https://github.com/soco-live/nkiri-releases/releases/latest")
+        for it in latest[:5]: lines.append(f"🎞️ {it.get('title','')[:45]}")
+        lines.append("\n📲 https://github.com/soco-live/nkiri-releases#download")
         message="\n".join(lines)
         last_file=os.path.join(REPO,".fb_last_post_id")
         if os.path.exists(last_file):

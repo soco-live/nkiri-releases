@@ -15,8 +15,8 @@
 
 <p align="center">
   <a href="#download">Download</a> •
-  <a href="#install">Install</a> •
-  <a href="#latest">Latest</a>
+  <a href="#latest">Latest</a> •
+  <a href="#install">Install</a>
 </p>
 
 ---
@@ -35,6 +35,22 @@
 
 > [!TIP]
 > Pick **Universal** if you don't know your device — it works on every Android.
+
+---
+
+### Latest Releases
+
+<!-- LATEST_START -->
+<table><tr>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/The-Keeper-of-the-Camphor-Tree-2026-Japanese-Animation.webp" width="110" alt="The Keeper of the Camphor Tree (2026) | Download Japanese Animation"><br><sub>The Keeper of the Camphor Tree (202</sub></a></td>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Spider-Island-2026-Hollywood-Movie.webp" width="110" alt="Spider Island (2026) | Download Hollywood Movie"><br><sub>Spider Island (2026) | Download Hol</sub></a></td>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Grand-Theft-Auto-VI-An-Extended-Look-2026-Hollywood-Animation-Movie.webp" width="110" alt="Grand Theft Auto VI: An Extended Look (2026) | Download Hollywood Movie"><br><sub>Grand Theft Auto VI: An Extended Lo</sub></a></td>
+</tr><tr>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Anbe-Diana-2026-foreign-Movie.jpg" width="110" alt="Anbe Diana (2026) | Download Foreign Movie"><br><sub>Anbe Diana (2026) | Download Foreig</sub></a></td>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/The-Wrong-Girls-2026-Hollwood-Movie.webp" width="110" alt="The Wrong Girls (2026) | Download Hollywood Movie"><br><sub>The Wrong Girls (2026) | Download H</sub></a></td>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Confinement-2026-Hollywood-Movie.webp" width="110" alt="Confinement (2026) | Download Hollywood Movie"><br><sub>Confinement (2026) | Download Holly</sub></a></td>
+</tr></table>
+<!-- LATEST_END -->
 
 ---
 
@@ -60,27 +76,11 @@ Enable Unknown Sources → Downloader → paste link → Install → remote.
 
 ---
 
-### Latest Releases
-
-<!-- LATEST_START -->
-<table><tr>
-<td align="center"><a href="https://thenkiri.com/spider-island-2026-download-hollywood-movie/"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Spider-Island-2026-Hollywood-Movie.webp" width="110" alt="Spider Island (2026) \| Download Hollywood Movie"><br><sub>Spider Island (2026) \| Download Hollywo</sub></a></td>
-<td align="center"><a href="https://thenkiri.com/grand-theft-auto-vi-an-extended-look-2026-download-hollywood-movie/"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Grand-Theft-Auto-VI-An-Extended-Look-2026-Hollywood-Animation-Movie.webp" width="110" alt="Grand Theft Auto VI: An Extended Look (2026) \| Download Hollywood Movie"><br><sub>Grand Theft Auto VI: An Extended Look (2</sub></a></td>
-<td align="center"><a href="https://thenkiri.com/anbe-diana-2026-download-foreign-movie/"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Anbe-Diana-2026-foreign-Movie.jpg" width="110" alt="Anbe Diana (2026) \| Download Foreign Movie"><br><sub>Anbe Diana (2026) \| Download Foreign Mo</sub></a></td>
-</tr><tr>
-<td align="center"><a href="https://thenkiri.com/the-wrong-girls-2026-download-hollywood-movie/"><img src="https://thenkiri.com/wp-content/uploads/2026/09/The-Wrong-Girls-2026-Hollwood-Movie.webp" width="110" alt="The Wrong Girls (2026) \| Download Hollywood Movie"><br><sub>The Wrong Girls (2026) \| Download Holly</sub></a></td>
-<td align="center"><a href="https://thenkiri.com/confinement-2026-download-hollywood-movie/"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Confinement-2026-Hollywood-Movie.webp" width="110" alt="Confinement (2026) \| Download Hollywood Movie"><br><sub>Confinement (2026) \| Download Hollywood</sub></a></td>
-<td align="center"><a href="https://thenkiri.com/just-play-dead-2026-download-hollywood-movie/"><img src="https://thenkiri.com/wp-content/uploads/2026/09/image_2026-09-01_082152994.png" width="110" alt="Just Play Dead (2026) \| Download Hollywood Movie"><br><sub>Just Play Dead (2026) \| Download Hollyw</sub></a></td>
-</tr></table>
-<!-- LATEST_END -->
-
----
-
 ### Sister Apps
 
 | App | App |
 |---|---|
-| <a href="https://github.com/soco-live/socolive-releases#readme"><img src="assets/socolive_logo.png" width="80" alt="Socolive TV"><br><sub><strong>Socolive TV</strong></sub></a> | <a href="https://github.com/soco-live/animepahe-releases#readme"><img src="assets/animepahe_logo.png" width="80" alt="AnimePahe TV"><br><sub><strong>AnimePahe TV</strong></sub></a> |
+| <a href="https://soco-live.github.io#readme"><img src="assets/socolive_logo.png" width="80" alt="Socolive"><br><sub><strong>Socolive TV</strong></sub></a> | <a href="https://github.com/soco-live/animepahe-releases#readme"><img src="assets/animepahe_logo.png" width="80" alt="AnimePahe"><br><sub><strong>AnimePahe TV</strong></sub></a> |
 
 ---
 
