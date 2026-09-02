@@ -30,6 +30,9 @@
 | **Emulator / ChromeOS** | [**x86_64** · 27 MB](https://github.com/soco-live/nkiri-releases/releases/latest/download/nkiri-tv-x86_64.apk) |
 | **Not sure — works everywhere** | [**Universal** · 72 MB](https://github.com/soco-live/nkiri-releases/releases/latest/download/nkiri-tv.apk) |
 
+> [!IMPORTANT]
+> **Before you install:** On TV enable Unknown Sources; on phone allow the file to install.
+
 > [!TIP]
 > Pick **Universal** if you don't know your device — it works on every Android.
 
@@ -76,9 +79,9 @@ Enable Unknown Sources → Downloader → paste link → Install → remote.
 ### Sister Apps
 
 <p align="center">
-  <a href="https://soco-live.github.io"><img src="https://raw.githubusercontent.com/soco-live/socolive-tv/main/src/assets/icon.png" width="80" alt="Socolive"><br><sub><strong>Socolive TV</strong></sub><br><sub>Live football</sub></a>
+  <a href="https://soco-live.github.io"><img src="assets/socolive_logo.png" width="80" alt="Socolive"><br><sub><strong>Socolive TV</strong></sub><br><sub>Live football</sub></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/soco-live/animepahe-releases"><img src="https://raw.githubusercontent.com/soco-live/animepahe-tv/master/src/assets/icon.png" width="80" alt="AnimePahe"><br><sub><strong>AnimePahe TV</strong></sub><br><sub>Anime</sub></a>
+  <a href="https://github.com/soco-live/animepahe-releases"><img src="assets/animepahe_logo.png" width="80" alt="AnimePahe"><br><sub><strong>AnimePahe TV</strong></sub><br><sub>Anime</sub></a>
 </p>
 
 ---
