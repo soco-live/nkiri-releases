@@ -42,13 +42,13 @@
 
 <!-- LATEST_START -->
 <table><tr>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Chad-Powers-2026-Hollywood-Movie.webp" width="110" alt="Chad Powers S02 (Complete) | TV Series"><br><sub>Chad Powers S02 (Complete) | TV Ser</sub></a></td>
 <td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/The-Brink-of-War-2026-Hollywood-Movie-scaled.webp" width="110" alt="The Brink of War (2026) | Download Hollywood Movie"><br><sub>The Brink of War (2026) | Download </sub></a></td>
 <td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/The-Runner-2026-Hollywood-Moviw-scaled.webp" width="110" alt="The Runner (2026) | Download Hollywood Movie"><br><sub>The Runner (2026) | Download Hollyw</sub></a></td>
-<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/The-Keeper-of-the-Camphor-Tree-2026-Japanese-Animation.webp" width="110" alt="The Keeper of the Camphor Tree (2026) | Download Japanese Animation"><br><sub>The Keeper of the Camphor Tree (202</sub></a></td>
 </tr><tr>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/The-Keeper-of-the-Camphor-Tree-2026-Japanese-Animation.webp" width="110" alt="The Keeper of the Camphor Tree (2026) | Download Japanese Animation"><br><sub>The Keeper of the Camphor Tree (202</sub></a></td>
 <td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Spider-Island-2026-Hollywood-Movie.webp" width="110" alt="Spider Island (2026) | Download Hollywood Movie"><br><sub>Spider Island (2026) | Download Hol</sub></a></td>
 <td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Grand-Theft-Auto-VI-An-Extended-Look-2026-Hollywood-Animation-Movie.webp" width="110" alt="Grand Theft Auto VI: An Extended Look (2026) | Download Hollywood Movie"><br><sub>Grand Theft Auto VI: An Extended Lo</sub></a></td>
-<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Anbe-Diana-2026-foreign-Movie.jpg" width="110" alt="Anbe Diana (2026) | Download Foreign Movie"><br><sub>Anbe Diana (2026) | Download Foreig</sub></a></td>
 </tr></table>
 <!-- LATEST_END -->
 
