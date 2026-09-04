@@ -42,13 +42,13 @@
 
 <!-- LATEST_START -->
 <table><tr>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Yakuza-Fiance-2024-Japanese-Anime-series.webp" width="110" alt="Yakuza Fiancé: Raise wa Tanin ga Ii (Complete) | Anime Series"><br><sub>Yakuza Fiancé: Raise wa Tanin ga Ii</sub></a></td>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Come-with-Me-2026-Hollywood-Movie-scaled.webp" width="110" alt="Come with Me (2026) | Download Hollywood Movie"><br><sub>Come with Me (2026) | Download Holl</sub></a></td>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Mayday-2026-Hollywood-Movie1-scaled.webp" width="110" alt="Mayday (2026) | Download Hollywood Movie"><br><sub>Mayday (2026) | Download Hollywood </sub></a></td>
+</tr><tr>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Splash-City-2026-Hollywood-Movie.webp" width="110" alt="Splash City (2026) | Download Hollywood Movie"><br><sub>Splash City (2026) | Download Holly</sub></a></td>
 <td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Gandhari-2026-foreign-Movie.webp" width="110" alt="Gandhari (2026) | Download Foreign Movie"><br><sub>Gandhari (2026) | Download Foreign </sub></a></td>
 <td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/The-Girl-in-the-River-2026-Hollywood-Movie.webp" width="110" alt="The Girl in the River (2026) | Download Hollywood Movie"><br><sub>The Girl in the River (2026) | Down</sub></a></td>
-<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Clash-of-the-Thundermans-2026-Hollywood-Movie-scaled.webp" width="110" alt="Clash of the Thundermans (2026) | Download Hollywood Movie"><br><sub>Clash of the Thundermans (2026) | D</sub></a></td>
-</tr><tr>
-<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/The-Gentlemen-2026-Hollywood-Tv-series.webp" width="110" alt="The Gentlemen S02 (Complete) | TV Series"><br><sub>The Gentlemen S02 (Complete) | TV S</sub></a></td>
-<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Chad-Powers-2026-Hollywood-Movie.webp" width="110" alt="Chad Powers S02 (Complete) | TV Series"><br><sub>Chad Powers S02 (Complete) | TV Ser</sub></a></td>
-<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/The-Brink-of-War-2026-Hollywood-Movie-scaled.webp" width="110" alt="The Brink of War (2026) | Download Hollywood Movie"><br><sub>The Brink of War (2026) | Download </sub></a></td>
 </tr></table>
 <!-- LATEST_END -->
 
