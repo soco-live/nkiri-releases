@@ -42,13 +42,13 @@
 
 <!-- LATEST_START -->
 <table><tr>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Mr.-Robot-S03-Hollywood-Movie.webp" width="110" alt="Mr. Robot S03 (Complete) | TV Series"><br><sub>Mr. Robot S03 (Complete) | TV Serie</sub></a></td>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Mr.Robot-S02-Hollywood-Tv-series-scaled.webp" width="110" alt="Mr. Robot S02 (Complete) | TV Series"><br><sub>Mr. Robot S02 (Complete) | TV Serie</sub></a></td>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Mr.-Robot-S01-Hollywood-Tv-series.webp" width="110" alt="Mr. Robot S01 (Complete) | TV Series"><br><sub>Mr. Robot S01 (Complete) | TV Serie</sub></a></td>
+</tr><tr>
 <td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Yakuza-Fiance-2024-Japanese-Anime-series.webp" width="110" alt="Yakuza Fiancé: Raise wa Tanin ga Ii (Complete) | Anime Series"><br><sub>Yakuza Fiancé: Raise wa Tanin ga Ii</sub></a></td>
 <td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Come-with-Me-2026-Hollywood-Movie-scaled.webp" width="110" alt="Come with Me (2026) | Download Hollywood Movie"><br><sub>Come with Me (2026) | Download Holl</sub></a></td>
 <td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Mayday-2026-Hollywood-Movie1-scaled.webp" width="110" alt="Mayday (2026) | Download Hollywood Movie"><br><sub>Mayday (2026) | Download Hollywood </sub></a></td>
-</tr><tr>
-<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Splash-City-2026-Hollywood-Movie.webp" width="110" alt="Splash City (2026) | Download Hollywood Movie"><br><sub>Splash City (2026) | Download Holly</sub></a></td>
-<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Gandhari-2026-foreign-Movie.webp" width="110" alt="Gandhari (2026) | Download Foreign Movie"><br><sub>Gandhari (2026) | Download Foreign </sub></a></td>
-<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/The-Girl-in-the-River-2026-Hollywood-Movie.webp" width="110" alt="The Girl in the River (2026) | Download Hollywood Movie"><br><sub>The Girl in the River (2026) | Down</sub></a></td>
 </tr></table>
 <!-- LATEST_END -->
 
