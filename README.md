@@ -42,13 +42,13 @@
 
 <!-- LATEST_START -->
 <table><tr>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/The-Girl-with-the-Dragon-Tattoo-2011-Hollywood-Movie-1.webp" width="110" alt="The Girl with the Dragon Tattoo (2011) | Download Hollywood Movie"><br><sub>The Girl with the Dragon Tattoo (20</sub></a></td>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Fight-Against-Evil-3-2026-Chinese-Movie.webp" width="110" alt="Fight Against Evil 3 (2026) | Download Chinese Movie"><br><sub>Fight Against Evil 3 (2026) | Downl</sub></a></td>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Fight-Against-Evil-2-2023-Chinese-Movie.webp" width="110" alt="Fight Against Evil 2 (2023) | Download Chinese Movie"><br><sub>Fight Against Evil 2 (2023) | Downl</sub></a></td>
+</tr><tr>
+<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Mr.Robot-S04-Hollywood-Tv-series-1.webp" width="110" alt="Mr. Robot S04 (Complete) | TV Series"><br><sub>Mr. Robot S04 (Complete) | TV Serie</sub></a></td>
 <td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Mr.-Robot-S03-Hollywood-Movie.webp" width="110" alt="Mr. Robot S03 (Complete) | TV Series"><br><sub>Mr. Robot S03 (Complete) | TV Serie</sub></a></td>
 <td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Mr.Robot-S02-Hollywood-Tv-series-scaled.webp" width="110" alt="Mr. Robot S02 (Complete) | TV Series"><br><sub>Mr. Robot S02 (Complete) | TV Serie</sub></a></td>
-<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Mr.-Robot-S01-Hollywood-Tv-series.webp" width="110" alt="Mr. Robot S01 (Complete) | TV Series"><br><sub>Mr. Robot S01 (Complete) | TV Serie</sub></a></td>
-</tr><tr>
-<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Yakuza-Fiance-2024-Japanese-Anime-series.webp" width="110" alt="Yakuza Fiancé: Raise wa Tanin ga Ii (Complete) | Anime Series"><br><sub>Yakuza Fiancé: Raise wa Tanin ga Ii</sub></a></td>
-<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Come-with-Me-2026-Hollywood-Movie-scaled.webp" width="110" alt="Come with Me (2026) | Download Hollywood Movie"><br><sub>Come with Me (2026) | Download Holl</sub></a></td>
-<td align="center"><a href="#download"><img src="https://thenkiri.com/wp-content/uploads/2026/09/Mayday-2026-Hollywood-Movie1-scaled.webp" width="110" alt="Mayday (2026) | Download Hollywood Movie"><br><sub>Mayday (2026) | Download Hollywood </sub></a></td>
 </tr></table>
 <!-- LATEST_END -->
 
